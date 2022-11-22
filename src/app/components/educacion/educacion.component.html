@@ -1,0 +1,20 @@
+<!--Educacion-->
+<section *ngFor="let estudios of educacionList" class="Education">
+    <h2 class="subtittle">Educacion</h2>
+  
+  <div class="education container-fluid d-md-flex justify-content-center">
+    <div class="tarjeta">
+      <div class="card bg-black" style="width: 18rem;">
+        <img [src]="estudios.imagen" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h3 class="card-title" style="color: white;">{{estudios.titulo}}</h3>
+          <p class="card-text" style="color: white;">{{estudios.instituto}}</p>
+          <p class="card-text" style="color: white;">{{estudios.duracion}}</p>
+        </div>
+      </div>
+    </div>
+  
+  </div>
+   
+  
+</section>

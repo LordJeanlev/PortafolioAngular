@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.pagina{
+    background-color:rgb(61, 61, 61);
+}
+.encabezado{
+    background-color: rgb(207, 137, 7) !important;
+     
+}
+/* .banner{
+    width: 78em;
+/* width: 10rem;; 
+} */
+.foto{
+    width: 78em;
+}
+.nombre {
+color:rgb(12, 12, 12);
+text-shadow: 10px rgb(253, 252, 252);
+}
+.subtittle{
+    text-align: center;
+    font-size: 30px;
+    color:  rgb(207, 137, 7);
+    text-shadow: 0 0 10px black, 0 0 20px black, 0 0 30px black, 0 0 40px black;
+}
+
+.About{
+    padding-top: 20px;
+    margin: 20px;
+}
+ .aboutMe{
+    padding: 20px ;
+    color: rgb(254, 254, 254);
+ }
+
+.education{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 20px;
+}
+.tarjeta{
+    padding: 20px;
+    margin: 10px;
+}
+.skill{
+color: white;
+background-color: black;
+}
+
+.loguitos{
+    width: 70px ;
+    height: 70px;
+}
+
+.habilidades{
+padding: 15px;
+margin:15px;
+}
+
+footer{
+    background-color: rgb(207, 137, 7);
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+
+

@@ -1,0 +1,138 @@
+{     
+    
+    "imageBanner":"https://i.ibb.co/3pXBX5T/Banner.png",
+    "acercaD":"Migrante venezolano apasionado por la tecnologia en constante aprendizaje y optimista en proyectar logros y metas que puedan ampliar mis conocimientos dentro del entorno laboral.",
+    "informacionGeneral": { 
+        "nombre":"Jeeanlev Alejandro Perez Reyes",
+        "posicion":"Desarrollador FullStack ",
+        "email":"jeanlevperez02@gmail.com",
+        "ubicacion":"Buenos Aires,Argentina"
+     },
+        
+     "estudios":[
+        {   "instituto":"ARGENTINA PROGRAMA",
+            "titulo":"#YoProgramo,Full Stack Junior",
+            "duracion":"Junio 2022 / Enero 2023",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/hyMgPPT/CFP.png"
+        },
+        {   "instituto":"CODO A CODO",
+            "titulo":"Full Stack Python Junior",
+            "duracion":"Agosto 2022 / Febrero 2023",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/hyMgPPT/CFP.png"
+        },
+        {
+            "instituto":"ARGENTINA PROGRAMA",
+            "titulo":"#SéPrograma, Programación Web",
+            "duracion":"Marzo 2022 / Mayo 2022",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/tQRkm2S/arg-programa.png"
+        },
+        {
+            "instituto":"AcademiaBA",
+            "titulo":"Criptomonedas",
+            "duracion":"marzo 2022/junio 2022",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/BzdVKnY/ACADEMIABA.png" 
+        },
+        {
+            "instituto":"AcademiaBA",
+            "titulo":"Programacion nivel 2",
+            "duracion":"agosto 2022/ septiembre 2022",
+            "ubicacion":"CABA, Argerntina",
+           "imagen":"https://i.ibb.co/BzdVKnY/ACADEMIABA.png" 
+        },
+        {
+            "instituto":"Aprende Programando",
+            "titulo":"Programación,Nivel 1",
+            "duracion":"Feb 2022 / Abril 2022",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/Qm5B1D2/APNegro.pn"  
+        },
+        {
+            "instituto":"Aprende Programando",
+            "titulo":"Programacion, Drones con Python",
+            "duracion":"Agosto 2021 / Noviembre 2021",
+            "ubicacion":"CABA, Argentina",
+            "imagen":"https://i.ibb.co/Qm5B1D2/APNegro.png"    
+        },   
+        {
+        "instituto":"Aprende Programando",
+        "titulo":"Robotica e impresion 3D",
+        "duracion":"Marzo 2022/Julio 2022",
+        "ubicacion":"CABA, Argentina",
+        "imagen":"https://i.ibb.co/Qm5B1D2/APNegro.png"
+        }
+    ],
+     "skill":[
+        {
+            "logo":"https://w7.pngwing.com/pngs/935/63/png-transparent-html-5-logo-web-development-html-computer-icons-world-wide-web-s-html5-icon-miscellaneous-logo-computer-programming.png",
+            "name": "HTML5",
+            "rango":"85%"
+        },    
+        {
+            "logo":"https://w7.pngwing.com/pngs/347/678/png-transparent-css3-icon-2d-blue.png",
+            "name": "CSS3",
+            "rango":"85%" 
+        },
+        {
+            "logo":"https://www.freepnglogos.com/uploads/javascript-png/javascript-with-coffee-logo-10.png",
+            "name": "JavaScript",
+            "rango":"85%" 
+        },
+        {
+            "logo":"https://img2.freepng.es/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg",
+            "name": "Python",
+            "rango":"85%" 
+        },
+        
+        {
+            "logo":"https://img2.freepng.es/20180514/lgq/kisspng-the-c-programming-language-dev-c-integrated-de-5afa020e191f87.3357645615263339661029.jpg",
+            "name": "C++",
+            "rango":"85%" 
+        },
+        {
+            "logo":"https://assets.hongkiat.com/uploads/android-app-dev-languages/java.png",
+            "name": "JAVA",
+            "rango":"85%" 
+        },
+        {
+            "logo":"https://cdn-icons-png.flaticon.com/512/288/288882.png?w=360",
+            "name": "MySQL",
+            "rango":"85%" 
+        },
+        {
+            "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlSGW00dZ4ncngRSmPqOopUqb52YTt3T6fxtNdoXesjEedPwsYNJ2S1FwAsagdbh0WLQ&usqp=CAU",
+            "name": "AngularJS",
+            "rango":"85%" 
+        },
+        {
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
+            "name": "Boostrap",
+            "rango":"85%" 
+        },
+        {
+            "logo":"https://cdn-icons-png.flaticon.com/512/25/25231.png",
+            "name": "GitHub",
+            "rango":"85%" 
+        },
+        {
+            "logo":"https://e1.pngegg.com/pngimages/978/256/png-clipart-clean-hd-icon-ii-xampp-squircle-orange-and-black-icon.png",
+            "name": "XAMPP",
+            "rango":"85%" 
+        }
+     ],
+
+     "proyectos":[
+        
+        {
+            "proyecto":"Portfolio YoProgramo",
+            "descripcion":"Página de una app desarralloda con JavaScript, TypeScript, API y Angular, con MySQL ",
+             "image":"https://i.ibb.co/zNCDk0S/portafolio-Yo-Programo.jpg" 
+        }
+        
+
+     ]
+    
+}
